@@ -1,0 +1,2 @@
+# AMIC
+Coin
